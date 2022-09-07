@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(218, 86, 86);
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    color: silver;
+    font-size: 40px;
+    padding-top: 1rem;
+}
+.card-body {
+    background-color: grey;
+    padding: 2rem;
+}
+.text-center {
+    font-weight: bold;
+}
+.container {
+    width: 50%;
+}
+#display {
+    background-color: bisque;
+    padding: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
